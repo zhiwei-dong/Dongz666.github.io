@@ -2,34 +2,34 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://www.huweihuang.com</loc>
+        <loc>http://www.dongz666.com</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
     
     <url>
-        <loc>http://www.huweihuang.com/tags/</loc>
+        <loc>http://www.dongz666.com/tags/</loc>
         <lastmod>2019-04-26T18:06:35.533Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://www.huweihuang.com/archive/</loc>
+        <loc>http://www.dongz666.com/archive/</loc>
         <lastmod>2019-04-26T18:06:35.499Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://www.huweihuang.com/about/</loc>
+        <loc>http://www.dongz666.com/about/</loc>
         <lastmod>2019-04-26T18:06:35.498Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://www.huweihuang.com/404.html</loc>
+        <loc>http://www.dongz666.com/404.html</loc>
         <lastmod>2019-04-26T18:06:35.493Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
