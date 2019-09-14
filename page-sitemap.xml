@@ -9,28 +9,28 @@
     
     <url>
         <loc>http://www.dongz666.com/about/</loc>
-        <lastmod>2019-04-27T06:19:21.365Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://www.dongz666.com/tags/</loc>
-        <lastmod>2019-04-26T18:06:35.533Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://www.dongz666.com/archive/</loc>
-        <lastmod>2019-04-26T18:06:35.499Z</lastmod>
+        <lastmod>2019-04-27T06:19:21.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>http://www.dongz666.com/404.html</loc>
-        <lastmod>2019-04-26T18:06:35.493Z</lastmod>
+        <lastmod>2019-04-26T18:06:35.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://www.dongz666.com/archive/</loc>
+        <lastmod>2019-04-26T18:06:35.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://www.dongz666.com/tags/</loc>
+        <lastmod>2019-04-26T18:06:35.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
